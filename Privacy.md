@@ -12,4 +12,4 @@ _Effective date: June 1, 2020_
 
 1. Information collection
 
-   \<FO4 Helperr\> does **not** collect **any** personal information.
+   \<FO4 Helper\> does **not** collect **any** personal information.
